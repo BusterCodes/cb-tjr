@@ -1,0 +1,11 @@
+/* content.css */
+.container {
+  background-image: url("../../background.jpg");
+  width: 400px;
+  height: 300px;
+  background-size: cover;
+}
+
+.car {
+  width: 100px;
+}
